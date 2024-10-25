@@ -1,3 +1,3 @@
 # Backend-NodeJS-Project
- My first NodeJS API REST Project witch a ticketing system
+ My first NodeJS API REST Project with a ticketing system
  Hope you will enjoy it.
