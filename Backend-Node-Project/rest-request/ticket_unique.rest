@@ -1,0 +1,2 @@
+GET http://localhost:4000/api/tickets/3c696e3f-f852-4ee8-a499-b00bd84cb429 HTTP/1.1
+Content-Type: application/json

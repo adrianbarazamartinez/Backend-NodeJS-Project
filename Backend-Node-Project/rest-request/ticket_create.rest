@@ -1,0 +1,11 @@
+POST http://localhost:4000/api/tickets HTTP/1.1
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NzE4ZGIwZjg4ZWI2ZmEyZDdkYWRmNDMiLCJyb2xlIjoiYWRtaW4iLCJpYXQiOjE3Mjk3ODU3NDcsImV4cCI6MTcyOTc4OTM0N30.5Gd5xDNFa9EnAL-1Rf6ZITS6P2C6LR-ulijzu0a0tkE
+
+{
+    "user": "1680fa4e-d315-469d-8b66-fc88299500eb",
+    "title":"Test Ticket 16 ",
+    "description":"This is a test ticket",
+    "priority":"low",
+    "status":"open"
+}
